@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Suhel-Kap/tenzies/static/css/main.ed740ed6.css",
+    "main.js": "/Suhel-Kap/tenzies/static/js/main.451ea651.js",
+    "index.html": "/Suhel-Kap/tenzies/index.html",
+    "main.ed740ed6.css.map": "/Suhel-Kap/tenzies/static/css/main.ed740ed6.css.map",
+    "main.451ea651.js.map": "/Suhel-Kap/tenzies/static/js/main.451ea651.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed740ed6.css",
+    "static/js/main.451ea651.js"
+  ]
+}
