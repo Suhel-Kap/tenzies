@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Tenzies
+
+This is an implementaion of the Tenzies game using React JS and it has been styles using [TailwindCSS](https://tailwindcss.com/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
